@@ -1,2 +1,2 @@
 # labs
-bits of code either useful or for learning
+bits of code either useful or for learning, mostly python and java
